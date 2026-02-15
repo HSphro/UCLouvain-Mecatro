@@ -1,0 +1,7 @@
+/home/student/Desktop/Minibot/DetectEnemy/build/CMakeFiles/detect_enemy.dir
+/home/student/Desktop/Minibot/DetectEnemy/build/CMakeFiles/edit_cache.dir
+/home/student/Desktop/Minibot/DetectEnemy/build/CMakeFiles/rebuild_cache.dir
+/home/student/Desktop/Minibot/DetectEnemy/build/CMakeFiles/list_install_components.dir
+/home/student/Desktop/Minibot/DetectEnemy/build/CMakeFiles/install.dir
+/home/student/Desktop/Minibot/DetectEnemy/build/CMakeFiles/install/local.dir
+/home/student/Desktop/Minibot/DetectEnemy/build/CMakeFiles/install/strip.dir
