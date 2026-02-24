@@ -16,6 +16,7 @@
 // ==========================================
 // CONFIGURATION
 // ==========================================
+// I test the git
 #define SPI_SPEED 500000 
 #define ADDR_ODO_A 0x10
 #define ADDR_ODO_B 0x20
